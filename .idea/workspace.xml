@@ -2,16 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="654747fe-3890-4e2f-830b-bf3723117c0b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_store/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/online_store/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/online_store/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="780987e7-2b51-4399-a2e3-bc86225a113c" />
   <component name="ProjectId" id="1y2LXJiwp1CuA7kbJeneXFjzdOy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,7 +36,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="online_store" type="Python.DjangoServer" factoryName="Django server">
@@ -30,6 +49,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="online_store.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -57,10 +77,41 @@
       <option name="presentableId" value="Default" />
       <updated>1631444774849</updated>
       <workItem from="1631444789565" duration="599000" />
+      <workItem from="1632339370587" duration="2819000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1439" y="506" key="#Notifications" timestamp="1632341065056">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1439" y="506" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1632341065056" />
+    <state x="1460" y="442" key="FileChooserDialogImpl" timestamp="1632339846994">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1460" y="442" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1632339846994" />
+    <state width="1761" height="335" key="GridCell.Tab.0.bottom" timestamp="1632341820462">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1761" height="335" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1632341820462" />
+    <state width="1761" height="335" key="GridCell.Tab.0.center" timestamp="1632341820462">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1761" height="335" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1632341820462" />
+    <state width="1761" height="335" key="GridCell.Tab.0.left" timestamp="1632341820461">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1761" height="335" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1632341820461" />
+    <state width="1761" height="335" key="GridCell.Tab.0.right" timestamp="1632341820462">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1761" height="335" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1632341820462" />
+    <state x="1182" y="332" key="SettingsEditor" timestamp="1632341057120">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1182" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1632341057120" />
   </component>
 </project>
